@@ -5,21 +5,21 @@
   "name": "twormo",
   "orientation": "any",
   "scope": "/",
-  "short_name": "SEU_JOGO",
+  "short_name": "twormo",
   "start_url": "index.html",
   "theme_color": "#4f5963",
   "id": "br.dev.ufersa.sd.grupo-05.lucasmairon.twormo",
   "icons": [
     {
-      "src": "IMAGEM.png",
-      "type": "image/png",
+      "src": "./public/vite.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "IMAGEM.png",
-      "type": "image/png",
+      "src": "./public/vite.svg",
+      "type": "image/svg",
       "sizes": "512x512"
     }
   ]
