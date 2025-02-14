@@ -11,14 +11,14 @@
   "id": "br.dev.ufersa.sd.grupo-05.lucasmairon.twormo",
   "icons": [
     {
-      "src": "termo_game/public/vite.svg",
+      "src": "vite.svg",
       "type": "image/svg",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "termo_game/public/vite.svg",
+      "src": "vite.svg",
       "type": "image/svg",
       "sizes": "512x512"
     }
